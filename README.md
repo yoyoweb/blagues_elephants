@@ -1,7 +1,7 @@
 blagues_elephants
 =================
 
-Liste des blagues ou devinettes sur les éléphants.
+Liste de blagues ou devinettes sur les éléphants.
 
 1. 
 Q: comment fait-on pour faire entrer un éléphant dans un frigo en trois mouvements ?  
@@ -26,6 +26,12 @@ R: celui qui a le permis.
 1. 
 Q: comment sait-on qu'un éléphant était dans le frigo ?  
 R: aux traces de pas dans le beurre.
+
+1. 
+Q: comment sait-on que les éléphants sont à la messe ?  
+R: la 2 CV est garée devant l'église.
+
+
 
 
 
