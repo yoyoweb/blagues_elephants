@@ -20,7 +20,7 @@ Q: comment fait-on entrer 4 éléphants dans une 2 CV ?
 R: 2 devant et 2 derrière.
 
 1. 
-Q: comment sait-on qu'un éléphant était dans le frido ?  
+Q: comment sait-on qu'un éléphant était dans le frigo ?  
 R: aux traces de pas dans le beurre.
 
 
