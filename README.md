@@ -28,10 +28,17 @@ Q: comment sait-on qu'un éléphant était dans le frigo ?
 R: aux traces de pas dans le beurre.
 
 1. 
+Q: pourquoi les éléphants mettent-ils des raquettes aux pieds pour marcher dans le désert ?  
+R: pour ne pas s'enfoncer dans le sable.
+
+1. 
 Q: comment sait-on que les éléphants sont à la messe ?  
 R: la 2 CV est garée devant l'église.
 
+1. 
+Q: le roi des animaux, le lion organise une "petite" fête pour son anniversaire. Il invite tous les animaux, et évidemment comme c'est le roi, tout le monde vient. Tout le monde sauf un animal, lequel ?  
+R: la girafe, elle est restée coincée dans le frigo !
 
-
-
-
+1. 
+Q: pourquoi les autruches mettent leur tête dans le sable ?  
+R: pour regarder les éléphants qui n'avaient pas mis de raquettes.
